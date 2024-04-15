@@ -1,0 +1,50 @@
+Conversion
+==========================================
+
+Case 1
+---------------------------------------
+Which module to run?
+3 - Converting
+0 - Finish
+Your selectiong
+3
+*** Start of Converting String to long Demo ***
+Type an long numeric String (q - to quit):
+1234567.09876
+Converted number is 1234567
+Type an long numeric String (q - to quit):
+q
+*** End of Converting String to in Demo ***
+
+Case 2
+---------------------------------------
+Which module to run?
+3 - Converting
+0 - Finish
+Your selectiong
+3
+*** Start of Converting String to long Demo ***
+Type an long numeric String (q - to quit):
+
+Type an long numeric String (q - to quit):
+12500.178
+Converted number is 12500
+Type an long numeric String (q - to quit):
+q
+*** End of Converting String to in Demo ***
+
+Case 3
+---------------------------------------
+Which module to run?
+3 - Converting
+0 - Finish
+Your selectiong
+3
+*** Start of Converting String to long Demo ***
+Type an long numeric String (q - to quit):
+My name is ridwan hossain
+Converted number is 0
+Type an long numeric String (q - to quit):
+q
+*** End of Converting String to in Demo ***
+

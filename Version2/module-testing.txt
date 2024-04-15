@@ -1,0 +1,47 @@
+Conversion
+==========================================
+
+Case 1
+---------------------------------------
+Which module to run?
+3 - Converting
+0 - Finish
+Your selectiong
+3
+*** Start of Converting String to double Demo ***
+Type an double numeric String (q - to quit):
+99.99
+Converted number is 99.990000
+Type an double numeric String (q - to quit):
+q
+*** End of Converting String to double Demo ***
+
+Case 2
+---------------------------------------
+*** Start of Converting String to double Demo ***
+Type an double numeric String (q - to quit):
+100
+Converted number is 100.000000
+Type an double numeric String (q - to quit):
+q
+*** End of Converting String to double Demo ***
+
+Which module to run?
+3 - Converting
+0 - Finish
+Your selectiong
+
+Case 3
+---------------------------------------
+Which module to run?
+3 - Converting
+0 - Finish
+Your selectiong
+3
+*** Start of Converting String to double Demo ***
+Type an double numeric String (q - to quit):
+Hello world
+Converted number is 0.000000
+Type an double numeric String (q - to quit):
+q
+*** End of Converting String to double Demo ***
