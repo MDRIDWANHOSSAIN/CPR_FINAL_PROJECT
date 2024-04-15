@@ -1,0 +1,21 @@
+Conversion
+==========================================
+
+Case 1
+---------------------------------------
+Type an int numeric String (q - to quit):
+1
+Converted number is 1
+
+Case 2
+---------------------------------------
+Type an int numeric String (q - to quit):
+100
+Converted number is 100
+
+Case 3
+---------------------------------------
+Type an int numeric String (q - to quit):
+ABC
+Converted number is 0
+
